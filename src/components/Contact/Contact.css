@@ -1,0 +1,26 @@
+.container {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.text {
+    color: black;
+    font-size: 25px;
+    text-align: center;
+    width: 50%;
+    margin: 10rem;
+}
+
+.miniFrame {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.miniText {
+    color: black;
+    font-size: 15px;
+    text-align: center;
+    width: 30%;
+}
