@@ -1,13 +1,12 @@
-.container {
+.typesContainer {
     display: flex;
     justify-content: center;
     align-items: center;
 }
 
-.text {
-    color: black;
-    font-size: 25px;
+.typesText {
+    color: darkblue;
+    font-size: 15px;
     text-align: center;
-    width: 50%;
-    margin: 10rem;
+    margin: 20px 20px;
 }

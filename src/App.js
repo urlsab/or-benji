@@ -1,5 +1,7 @@
 import React from 'react';
 import './App.css';
+import '../node_modules/bootstrap/dist/css/bootstrap.min.css';
+
 import Home from './components/Home/Home';
 import Navbar from './components/Navbar/Navbar';
 import Contact from './components/Contact/Contact';

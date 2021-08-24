@@ -1,7 +1,7 @@
 import React from 'react';
 import './Navbar.css';
 
-// donwt delete Router !!!
+// don't delete Router !!!
 import {BrowserRouter as Router,NavLink} from "react-router-dom";
     
 const Navbar = () => {
@@ -16,7 +16,7 @@ const Navbar = () => {
                         <NavLink to="/types"><b>סוגי טיפול</b></NavLink>
                     </li>
                     <li>
-                        <NavLink to="/method"><b>תהליך טיפול</b></NavLink>
+                        <NavLink to="/method"><b>תהליך הטיפול</b></NavLink>
                     </li>
                     <li>
                         <NavLink to="/" exact><b>ראשי</b></NavLink>

@@ -11,13 +11,13 @@ header {
     align-items: center;
     color:transparent;
     background-color: transparent;
-    background-color: cadetblue;
+    background-color: rgb(148, 148, 122);
     padding-bottom: 10px;
     padding-top: 10px;
   }
 
   a {
-    color:brown;
+    color:rgb(109, 3, 3);
     text-decoration:none;
     background-color: transparent;
   }

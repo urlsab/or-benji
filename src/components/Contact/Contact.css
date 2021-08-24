@@ -1,26 +1,29 @@
-.container {
-    display: flex;
+.contactContainer {
+    display: flow-root;
     justify-content: center;
     align-items: center;
 }
 
-.text {
+.contactText {
+    display: flow-root;
     color: black;
-    font-size: 25px;
+    font-size: 20px;
     text-align: center;
     width: 50%;
-    margin: 10rem;
+    margin: 60px auto;
 }
 
 .miniFrame {
-    display: flex;
+    display: flow-root;
     justify-content: center;
     align-items: center;
+    margin: 80px auto;
 }
 
 .miniText {
-    color: black;
+    color: darkblue;
     font-size: 15px;
     text-align: center;
-    width: 30%;
+    /* width: 60%; */
+    /* display: table-header-group; */
 }

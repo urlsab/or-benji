@@ -1,13 +1,25 @@
-.container {
-    display: flex;
+.homeContainer {
+    display: flow-root;
     justify-content: center;
     align-items: center;
 }
 
-.text {
-    color: black;
-    font-size: 25px;
+.homeHeader {
+    color: darkorchid;
     text-align: center;
-    width: 50%;
-    margin: 3rem;
+    margin: 50px auto;
+}
+
+.homeMiniHeader{
+    color:deeppink;
+    text-align: center;
+    margin: 50px auto;
+}
+
+.homeText {
+    color: black;
+    font-size: 15px;
+    text-align: center;
+    width: 40%;
+    margin: 50px auto;
 }

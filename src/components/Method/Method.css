@@ -4,10 +4,10 @@
     align-items: center;
 }
 
-.text {
-    color: black;
+.methodText {
+    color: darkviolet;
     font-size: 25px;
     text-align: center;
     width: 50%;
-    margin: 10rem;
+    margin: 90px auto;
 }
