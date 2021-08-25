@@ -1,6 +1,7 @@
 import React from 'react';
 import './App.css';
 import '../node_modules/bootstrap/dist/css/bootstrap.min.css';
+// import sass בעזה"י בלנ"ד
 
 import Home from './components/Home/Home';
 import Navbar from './components/Navbar/Navbar';
@@ -13,8 +14,7 @@ const App = () => {
   return (
     <React.Fragment>
       <Navbar />
-      {/* <main> */}
-        {/* <Navbar /> */}
+      {/* <main> */} 
           <Switch>
             <Route path="/" exact component={Home} />
             <Route path="/method" component={Method} />

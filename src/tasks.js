@@ -2,7 +2,7 @@
 
 1. style the contact route to be responsive
 
-2. style all website for phones screens (@ etc)
+2. style all website for phones screens (@media etc)
 
 3. cards bs4/5 for types route
 

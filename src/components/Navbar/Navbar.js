@@ -12,11 +12,14 @@ const Navbar = () => {
                     <li>
                         <NavLink to="/contact"><b>צור קשר</b></NavLink>
                     </li>
+                    {/* <li>
+                        <NavLink to="/recommend"><b>המלצות</b></NavLink>
+                    </li> */}
                     <li>
                         <NavLink to="/types"><b>סוגי טיפול</b></NavLink>
                     </li>
                     <li>
-                        <NavLink to="/method"><b>תהליך הטיפול</b></NavLink>
+                        <NavLink to="/method"><b>על הטיפול</b></NavLink>
                     </li>
                     <li>
                         <NavLink to="/" exact><b>ראשי</b></NavLink>
