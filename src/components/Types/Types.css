@@ -1,10 +1,11 @@
 .typesContainer {
-    display: flex;
+    display: inline-block;
     justify-content: center;
     align-items: center;
 }
 
 .typesText {
+    display: inline-block;
     color: darkblue;
     font-size: 15px;
     text-align: center;

@@ -11,23 +11,23 @@ header {
     align-items: center;
     color:transparent;
     background-color: transparent;
-    background-color: rgb(148, 148, 122);
+    background-color: rgb(80, 80, 34);
     padding-bottom: 10px;
     padding-top: 10px;
   }
 
   a {
-    color:rgb(109, 3, 3);
+    color:rgb(34, 163, 51);
     text-decoration:none;
     background-color: transparent;
   }
 
   a.active {
-    color:blueviolet;
+    color:rgb(149, 75, 219);
   }
 
   a:hover {
-    color:rgb(42, 82, 211);
+    color:rgb(197, 204, 226);
   }
   
   .main-header nav {

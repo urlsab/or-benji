@@ -13,7 +13,6 @@ const Home = () => {
             }}>
                 <div className="homeContainer">
                   <h1 className="homeHeader"> אור בנג'י </h1>
-                  <h1 className="homeHeader"> טקסט לדוגמא  </h1>
                   <h3 className="homeMiniHeader">פסיכותרפיסט, מטפל זוגי ומאמן אישי</h3>
                   <h6 className="homeText">   אור בנג'י הוא בוגר מצטיין של תואר ראשון בפסיכולוגיה ופילוסופיה מהאוניברסיטה העברית. במהלך התואר רכש נסיון רב בטיפול קיבל המלצות חמות מאנשי מקצוע ומרצים באוניברסיטה</h6>
                 </div> 

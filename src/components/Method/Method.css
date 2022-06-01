@@ -1,13 +1,20 @@
-.container {
+.methodContainer {
     display: flex;
     justify-content: center;
     align-items: center;
+    background-color:rgb(243, 241, 231);
 }
 
 .methodText {
-    color: darkviolet;
-    font-size: 25px;
+    display: flex;
+    color: rgb(43, 109, 153);
+    font-size: 14px;
     text-align: center;
     width: 50%;
-    margin: 90px auto;
+    margin: 20px ;
+}
+
+.styleMehtodImg {
+    background-color: crimson;
+    color: cyan;
 }
